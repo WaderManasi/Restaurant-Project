@@ -1,0 +1,79 @@
+.jumbotron{
+    background:rgb(254, 178, 54,.6);
+    padding:130px 0px 40px 0px;
+    margin-top: 1%;
+    color: aliceblue;
+}
+
+	
+.footer{
+    padding: 0px 0px;
+    background: rgba(236, 223, 250, 0.8);
+    font-size: 1rem;
+    margin-top: 7%;
+}
+.row-content {
+    margin: 0px auto;
+    border-radius: 2px 50px 50px 50px;
+    padding: 60px 60px;
+    min-height: 200px;
+    background: rgb(125,255,255,.5);
+    margin-top: 4%;
+    font-weight: 700;
+ }
+.set{
+    margin-top: 0%;
+}
+.parallax {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5ced6f473cacd300019fb124/1570269572811-1ZGB6PTRVLEFBE7M5E0P/ke17ZwdGBToddI8pDm48kKktH62YepJawavMaMounbsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcxwjyQPSh49jwrvoCUT9sbJAU6Aiz1K3vWAUPpgMXGAcipHLeemgYLDA4uKe8VB2Y/AD+FIX+3+BLACK+OVERLAY+WEB.jpg?format=2500w");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+body,html{
+    height: 100%;
+    font-family: "Encode Sans Expanded";
+    padding: 0px;
+    
+}
+.container{
+    padding: 20px;
+}
+.modal-body{
+    background-color:rgb(254, 178, 54,.6);
+}
+.modal-header{
+    background-color: #191970;
+    color: aliceblue;
+}
+#res{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 0px 0 rgba(0,0,0,0.3);
+}
+#res:hover{
+    color: gray;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6), 0 6px 0px 0 rgba(0,0,0,0.7);   
+}
+.carousel{
+    margin-bottom: 2%;
+    font-size:1rem;
+    font-weight: 700;
+}
+.card-header{
+    color: white;
+    background: #191970;
+    border: 0px black solid;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    border: 2px solid rgb(255,255,255,.2);
+    padding: 0px;
+    font-family: 'Encode Sans Expanded';
+    font-size: 1rem;
+    background: rgb(225,255,255,.1);
+    font-weight: 500;
+    font-style: bold;
+}
